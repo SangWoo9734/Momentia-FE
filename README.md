@@ -4,9 +4,27 @@
 </div>
 
 
-## 배포 주소
+## 실행 방법
+ #### Requirements
+  - Node.js : v20.11.1
+  - pnpm
 
-https://momentia.site
+ #### 0. Clone repository
+  ```bash
+  git clone https://github.com/SangWoo9734/Momentia-FE.git
+  ```
+ #### 1. Move to repository
+  ```bash
+  cd /Momentia-FE
+  ```
+ #### 2. Install dependencies
+  ```bash
+    pnpm install
+  ```
+ #### 3. Launch development server
+ ```bash
+   pnpm run dev:server
+ ```
 
 
 ## 목차
